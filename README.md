@@ -1,2 +1,2 @@
-# word-count
-project1 for dom interview
+# project1 for dom interview to the class
+
